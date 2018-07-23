@@ -17,7 +17,7 @@ Environments:
 
 ## Steps
 - Download the source code
-- Download and install CMAKE and VS2015(with CUDA8.0)
+- Download and install CMAKE and VS2015
 - Open CMAKE, specify the source code and the build dir.
 - Click `Configure`, select `Visual Studio 14 2015 Win64`, and click Finish
   - Any errors encountered, check your VS environment (may be you have to reinstall **all** of your vs components) and log file
