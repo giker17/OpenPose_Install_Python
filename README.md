@@ -2,9 +2,9 @@
 
 ## Source
 
-[OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
-[Installation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
+- [Installation](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md)
 
 ## Steps
 - Download the source code
