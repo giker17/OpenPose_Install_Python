@@ -1,4 +1,4 @@
-# OpenPose_Install_Python
+# OpenPose_Install_Python (Win10)
 
 ## Source
 
@@ -13,12 +13,15 @@
 - Click `Configure`, select `Visual Studio 14 2015 Win64`, and click Finish
   - Any errors encountered, check your VS environment (may be you have to reinstall **all** of your vs components) and log file
   - May be you would encounter `cl.exe` and `rc.exe` problems
-  - ![cmake]()
+  - ![cmake01](https://github.com/giker17/OpenPose_Install_Python/blob/master/openpose_install00.PNG)
 - If cmake passed, check the cuda dir. and select `BUILD PYTHON` box, and click `Generate`
+  - ![cmake02](https://github.com/giker17/OpenPose_Install_Python/blob/master/openpose_install01.PNG)
 - Then click `Open Project`, then the VS2015 would be open
 - Switch `Debug` to `Release` and select `x64`, then press `F5` to run the project
+  - ![vs01](https://github.com/giker17/OpenPose_Install_Python/blob/master/openpose_install02.PNG)
 - The project start running after compiling for a while, and you would see your camera begin to work
 - After compiling, you would have to build the project `_openpose`, right click it, and click `Build`
+  - ![vs02](https://github.com/giker17/OpenPose_Install_Python/blob/master/openpose_install03.PNG)
 
 
 ## Problems
