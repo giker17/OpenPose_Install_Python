@@ -1,5 +1,14 @@
 # OpenPose_Install_Python (Win10)
 
+Compile Openpose for Python on windows 10
+
+Environments:
+
+- Windows 10
+- Python version
+- VS2015
+- CUDA8.0
+
 ## Source
 
 - [OpenPose GitHub](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
