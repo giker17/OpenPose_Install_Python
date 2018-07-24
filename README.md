@@ -40,5 +40,5 @@ Environments:
 - [rc.exe](https://stackoverflow.com/questions/14372706/visual-studio-cant-build-due-to-rc-exe)
   - Runtime C++ compiler, it wouldn't install to your computer during vs2015 installation
 - cl.exe
-  - c++ compiler, you may not install it during vs2015 installation, then modify your installer, and add it into your VS
+  - c++ compiler, you may not install it during vs2015 installation, then run your installer and select modify, and add it into your VS
 
