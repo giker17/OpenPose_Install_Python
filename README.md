@@ -33,7 +33,7 @@ Environments:
   - ![vs02](https://github.com/giker17/OpenPose_Install_Python/blob/master/openpose_install03.PNG)
 
 ## Run in python
-- Under `build\examples\tutorial_python`, there lies two python file, just run them
+- Under `build\examples\tutorial_python`, there lies two python files, just run them
 - Any problems encountered, may caused by paths, check paths in the files according to the error message
 
 ## Problems
